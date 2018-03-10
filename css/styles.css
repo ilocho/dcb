@@ -35,6 +35,9 @@ footer {
     font-size: .8em;
     font-weight: 600;
 }
+footer a {
+    color: #2AA2EE;
+}
 h1 {
     margin: 2px 0 0 0;
     color: #ffffff;
