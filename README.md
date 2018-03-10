@@ -1,1 +1,1 @@
-Howdy!
+Much thanks to GitHub & Netlify!
