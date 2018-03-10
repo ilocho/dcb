@@ -33,6 +33,7 @@ footer {
     align-content: flex-center;
     justify-content: space-between;
     font-size: .8em;
+    font-weight: 600;
 }
 h1 {
     margin: 2px 0 0 0;
